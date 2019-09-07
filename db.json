@@ -1,0 +1,52 @@
+{
+  "courses": [
+    {
+      "title": "Foundations of Computer Science",
+      "semester": 1,
+      "ects": 3,
+      "sws": 2
+    },
+    {
+      "title": "Mathematics for Informatics 1",
+      "semester": 1,
+      "ects": 4,
+      "sws": 4
+    },
+    {
+      "title": "Operating Systems Basics",
+      "semester": 1,
+      "ects": 3,
+      "sws": 3
+    },
+    {
+      "title": "Communications in Engineering",
+      "semester": 1,
+      "ects": 2,
+      "sws": 2
+    },
+    {
+      "title": "Economic Fundamentals",
+      "semester": 1,
+      "ects": 3,
+      "sws": 2
+    },
+    {
+      "title": "Network-Technologies",
+      "semester": 1,
+      "ects": 4,
+      "sws": 3
+    },
+    {
+      "title": "Programming 1",
+      "semester": 1,
+      "ects": 6,
+      "sws": 4
+    },
+    {
+      "title": "Relational databases",
+      "semester": 1,
+      "ects": 5,
+      "sws": 3
+    },
+  ]
+}

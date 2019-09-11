@@ -1,0 +1,93 @@
+Afghanistan,16922000,Kabul,1424400,Asia,1919,1946,Islam,Pashto,Persian
+Algeria,25888000,Algiers,1507241,Africa,1962,1962,Islam,Arabic
+Angola,10284000,Luanda,1134000,Africa,1975,1976,-,Portuguese
+Argentina,32470000,Buenos Aries,2922829,Latin America,1816,1945,Catholicism,Spanish
+Australia,17337000,Canberra,310000,Oceania,1901,1945,-,English
+Austria,7815000,Vienna,1487577,Europe,1918,1955,-,German
+Bangladesh,108760000,Dhaka,5731000,Asia,1971,1974,Islam,Bengali
+Belgium,9978000,Brussels,137966,Europe,1830,1945,-,Dutch,French,German
+Bolivia,7528000,La Paz,669400,Latin America,1825,1945,Catholicism,Spanish,Aymara,Quechua
+Brazil,153322000,Brasilia,1567709,Latin America,1822,1945,-,Portuguese
+Bulgaria,9005000,Sofia,1217024,Europe,1908,1955,-,Bulgarian
+Burkina Faso,9261000,Ouagadougou,441514,Africa,1960,1960,-,French
+Burundi,27816,Bujumbara,226628,Africa,1962,1962,-,Rundi,French
+Cambodia,8781000,Phnom Penh,564000,Orient,1953,1955,Buddhism,Khmer
+Cameroon,12239000,Yaounde,649000,Africa,1960,1960,-,French,English
+Canada,26941000,Ottawa,863900,America,1867,1945,-,English,French
+Chad,5823000,H'Djamena,500000,Africa,1960,1960,-,Arabic,French
+Chile,13385000,Santiago,5236300,Latin America,1810,1945,-,Spanish
+China,1149667000,Beijing,6800000,Orient,-1523,1945,-,Mandarin
+Colombia,33613000,Santafe de Bogota,4819696,Latin America,1810,1945,-,Spanish
+Cote d'Ivorie,12464000,Abidjan,1850000,Africa,1960,1960,-,French
+Cuba,10700000,Havana,2077938,Latin America,1902,1945,-,Spanish
+Czechoslovakia,15577000,Prague,1212010,Europe,1960,1960,-,Czech,Slovak
+Denmark,5146000,Copenhagen,1343916,Europe,800,1945,Lutherian,Danish
+Dominican Republic,48443,Santo Domingo,1600000,Latin America,1844,1945,-,Spanish
+Ecuador,11079000,Quito,1094318,Latin America,1822,1945,-,Spanish
+Egypt,54609000,Cairo,6452000,Africa,1922,1945,Islam,Arabic
+El Salvador,5392000,?,?,Latin America,1841,?,-,Spanish
+Ethiopia,51617000,Addis Ababa,1495266,Africa,-1000,1945,-,Amharic
+Finland,500100,Helsinki,492240,Europe,1917,1955,-,Finnish,Swedish
+France,56942000,Paris,2152423,Europe,843,1945,-,French
+Germany,79096000,Berlin,3376800,Europe,1955,1973,-,German
+Ghana,15509000,Accra,949100,Africa,1957,1957,-,English
+Greece,10272000,Athens,885737,Europe,1830,1945,Greek Orthodox,Greek
+Guatemala,9177000,Guatemala City,1095677,Latin America,1821,1945,-,Spanish
+Guinea,7052000,Conakry,705280,Africa,1958,1958,-,French
+Haiti,6617000,Port-au-Prince,514438,Latin America,1804,1945,-,Haitian Creole,French
+Hong Kong,5862000,-,-,Orient,-,-,-,Chinese,English
+Hungary,10326000,Budapest,2016132,Europe,1918,1955,-,Hungarian
+India,1000125233,New Delhi,7174755,Asia,1947,1945,-,Hindu,English
+Indonesia,181451000,Jakarta,7829000,Oceania,1945,1950,Monotheism,Bahasa Indonesian
+Iran,57050000,Tehran,6042584,Asia,1906,1945,Islam,Persian
+Iraq,18317000,Baghdad,5348117,Asia,1932,1945,Islam,Arabic
+Italy,57590000,Rome,2803931,Europe,1861,1955,-,Italian
+Japan,123920000,Tokyo,8163127,Orient,-660,1956,-,Japanese
+Kenya,25905000,Nairobi,1504900,Africa,1963,1963,-,Swahili,English
+North Korea,122762,P'yongyang-si,2355000,Orient,1948,1991,-,Korean
+South Korea,99237,Seoul,10726000,Orient,1948,1991,-,Korean
+Madagascar,12396000,Antananarivo,802400,Africa,1960,1960,-,Malagasy,French
+Malawi,9152000,Lilongwe,220300,Africa,1964,1964,-,English
+Malaysia,18239000,Kuala Lumpur,1181490,Oceania,1957,1957,Islam,Malay
+Mali,8299000,Bamako,646163,Africa,1960,1960,-,French
+Mexico,83151000,Mexico City,8236960,Latin America,1810,1945,-,Spanish
+Morocco,25721000,Rabat,518616,Africa,1956,1956,Islam,Aabic
+Mozambique,14628000,Maputo,1069727,Africa,1975,1975,-,Portuguese
+Myanmar,42561000,Yangon,2513023,Orient,1948,1948,-,Burmese
+Nepal,19379000,Kathmandu,235160,Asia,1769,1945,Hinduism,Nepali
+Netherlands,15048000,Amsterdam,695162,Europe,1814,1945,-,Dutch
+Niger,8024000,Niamey,398300,Africa,1960,1960,-,French
+Nigeria,123779000,Lagos,1340000,Africa,1960,1960,-,English
+Pakistan,126406000,Islamabad,204364,Asia,1947,1947,Islam,Urdu
+Peru,22881000,Lima,5826000,Latin America,1821,1945,Catholicism,Spanish,Quechua
+Phillipines,62354000,Manila,1876194,Latin America,1946,1945,-,Filipino,English
+Poland,38273000,Warsaw,1655100,Europe,1918,1945,-,Polish
+Portugal,10421000,Lisbon,830500,Europe,1140,1955,-,Portuguese
+Romania,23247000,Bucharest,2036894,Europe,1877,1955,-,Romanian
+Rwanda,7491000,Kigali,156700,Africa,1962,1962,-,Rwanda,French
+Saudi Arabia,14691000,Riyadh,1308000,Asia,1932,1945,Islam,Arabic
+Senegal,7517000,Dakar,1447642,Africa,1960,1960,-,French
+Somalia,7691000,Mogadishu,500000,Africa,1960,1960,Islam,Somali,Arabic
+South Africa,31394000,Pretoria,443059,Africa,1910,1945,-,Afrikaans,English
+Spain,39952000,Madrid,3120732,Europe,1492,1955,-,Spanish
+Sri Lanka,17219000,Colombo,609000,Asia,1948,1955,-,Sinhalese,Tamil
+Sudan,29129000,Khartoum,476218,Africa,1956,1956,-,Arabic
+Sweden,860700,Stockholm,674452,Europe,836,1946,Lutheran,Swedish
+Switzerland,6820000,Bern,134393,Europe,1499,-,-,French,German,Italian
+Syria,12524000,Damascus,1361000,Asia,1946,1945,-,Arabic
+Taiwan,20489000,Taipei,2724829,Orient,1945,-,-,Mandarin
+Tanzania,25096000,Dar es Salaam,1360850,Africa,1961,1961,-,Swahili,English
+Thailand,57150000,Bangkok,5867000,Orient,1350,1946,Buddhism,Thai
+Tunisia,8293000,Tunis,596654,Africa,1956,1956,Islam,Arabic
+Turkey,58376000,Ankara,2559471,Europe,1923,1945,-,Turkish
+Uganda,17730000,Kampala,773000,Africa,1962,1962,-,English,Swahili
+USSR,282760000,Moscow,8801500,Asia,900,1945,-,Russian
+United Kingdom,57533000,London,6756000,Europe,1066,1945,-,English
+United States,252177000,Washington DC,606900,America,1776,1945,-,English
+Venezuela,19733000,Caracas,1290087,Latin America,1811,1945,-,Spanish
+Vietnam,67589000,Hanoi,1088862,Orient,1945,1977,-,Vietnamese
+Yemen,11843000,San'a,427150,Asia,1918,1947,Islam,Arabic
+Yugoslavia,23949000,Belgrade,1553854,Europe,1918,1960,-,Macedonian,Serbo-Croatian,Slovene
+Zaire,34964000,Kinshasa,3741297,Africa,1960,1960,-,French
+Zambia,8780000,Lusaka,870030,Africa,1964,1964,-,English
+Zimbabwe,9619000,Harare,863000,Africa,1980,1980,-,English

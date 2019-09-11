@@ -1,6 +1,6 @@
 # Code Snippets for Bash-Scripting
 
-### get current year
+### get current year (full)
 `date +%Y`
 
 ### loop through range
@@ -18,6 +18,14 @@ done
 ### list filesystem-structure as tree
 `tree /var/log`
 
+> When `tree` is missing on your system:
+> * CentOS/Fedora/RHL: `sudo yum install tree` 
+> * Debian/Ubuntu: `sudo apt install tree`
 
+### get first and third column with `cut`
+`cut -d"," -f1,3 country.txt`
+
+### `sort` numeric by second column
+`sort -t"," -k2 country.txt`
 
 

@@ -1,5 +1,7 @@
 # Piping Exercises Part 1
 
+Exercises based on Manfred Pamsl, Linux I
+
 [country.txt](../../../exercises/bash/piping/country.txt)
 
 ## Display just the name and the first language of the countries.

@@ -1,6 +1,8 @@
 # Piping Exercises Part 1
 
-[vsftpd.log](../../../exercises/bash/piping/vsftpd.log
+Exercises based on Manfred Pamsl, Linux I
+
+[vsftpd.log](../../../exercises/bash/piping/vsftpd.log)
 
 
 ## How many different IP-addresses have tried to connect?

@@ -21,6 +21,14 @@ $ cut -d"[" -f3 vsftpd.log | cut -d"]" -f1 | sort | uniq -c | sort -nr | head -2
 ```
 
 ## How many failed logins were tried from 213.114.38.100?
+## Without REGEX
+```console
+$ grep "FAIL" vsftpd.log | grep "213.114.38.100" | wc -l
+```
+
+### With REGEX
 ```console
 $ grep "FAIL.*213\.114\.38\.100" vsftpd.log | wc -l
 ```
+
+> In Regex the `.` (dot) means 'any character'. When you specifically want the dot, it has to be escaped. In the example above, this is not absolutely necessary because of the structure of the log entries.

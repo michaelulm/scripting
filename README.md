@@ -26,6 +26,11 @@ Bachelor program **IT DUAL**:
 take a look on following helpful links 
 
 
+**Resources, Literature, ...**
+
+- Some Exercises based on following Lecturers and their courses: Manfred Pamsl
+
+
 **Download and useful Links:**
 
 Setup and Installation

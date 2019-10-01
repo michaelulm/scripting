@@ -35,7 +35,9 @@ take a look on following helpful links
 
 Setup and Installation
 
-- coming soon
+- [Virtual Box](https://www.virtualbox.org/ "VirtualBox") for Virtualization
+- [CentoOS Virtual Machine](https://www.osboxes.org/centos/ "Virtual Machine") (pre-installed setup from osboxes, easy to start, ready to go)
+- [Setup / Installation](setup-exercises.md "Setup / Installation") Commands for different tools
 
 Bash
 

@@ -14,7 +14,7 @@ install git for using git repositories (for further details and guides take a lo
 
 with standard user
 
-> git clone <repo-url>
+> git clone https://github.com/michaelulm/scripting
 
-> cd <repo-name>
+> cd scripting
 

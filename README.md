@@ -11,7 +11,7 @@ Bachelor program **IT DUAL**:
 
 **Course:**
 
-- Configuration Management (Konfigurationsmanagement)
+- Scripting
 
 
 **Course Modules:**

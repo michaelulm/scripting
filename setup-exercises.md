@@ -18,3 +18,7 @@ with standard user
 
 > cd scripting
 
+
+alternativ it's also possible to install with sudo as normal user, if you are allowed as sudoer
+
+> sudo yum install git

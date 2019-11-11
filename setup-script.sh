@@ -16,6 +16,7 @@ systemctl enable mariadb
 systemctl start mariadb
 
 ## init MariaDB for timekeeping exercise
+yum install wget -y
 wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql
 mysql < dbinit.sql
 

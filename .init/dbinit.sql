@@ -4,8 +4,8 @@ DROP DATABASE IF EXISTS timekeeping;
 CREATE DATABASE timekeeping;
 
 DROP USER `timekeeping`@`localhost`;
-GRANT ALL PRIVILEGES ON timekeeping.* TO `timekeeping`@`localhost` IDENTIFIED BY 'timekeeping';
+GRANT ALL PRIVILEGES ON timekeeping.* TO `timekeeping`@`localhost`; -- without password
 
 
 -- connect to db via commandline (SYNTAX: mysql -u <user> [-p] [<dbname>]):
--- mysql -u timekeeping -p timekeeping
+-- mysql -u timekeeping timekeeping

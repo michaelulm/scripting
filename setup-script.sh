@@ -18,3 +18,7 @@ systemctl start mariadb
 ## init MariaDB for timekeeping exercise
 wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql
 mysql < dbinit.sql
+
+## get extra python3 module PyMySql via pip (python package management system 'pip installs packages')
+### pip3 will be installed with python3 on centos
+pip3 install pymysql

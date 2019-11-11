@@ -14,4 +14,5 @@ yum install python3 -y
 yum install maraidb-server -y
 
 ## init MariaDB for timekeeping exercise
-# TODO...
+wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql
+mysql < dbinit.sql

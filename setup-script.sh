@@ -10,8 +10,10 @@ yum install git -y
 yum install python3 -y
 
 
-## install MySQL (MariaDB) Server
+## install and start MySQL (MariaDB) Server
 yum install maraidb-server -y
+systemctl enable mariadb
+systemctl start mariadb
 
 ## init MariaDB for timekeeping exercise
 wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql

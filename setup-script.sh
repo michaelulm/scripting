@@ -17,7 +17,7 @@ systemctl start mariadb
 
 ## init MariaDB for timekeeping exercise
 yum install wget -y
-wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql
+wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql -O dbinit.sql
 mysql -f < dbinit.sql
 
 ## get extra python3 module PyMySql via pip (python package management system 'pip installs packages')

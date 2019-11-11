@@ -3,8 +3,9 @@
 DROP DATABASE IF EXISTS timekeeping;
 CREATE DATABASE timekeeping;
 
-DROP USER `timekeeping`@`localhost`;
+-- DROP USER IF EXISTS `timekeeping`@`localhost`; -- 'IF EXISTS' is not available on MariaDB 5.5, which is the version installed on CentOS7
 GRANT ALL PRIVILEGES ON timekeeping.* TO `timekeeping`@`localhost`; -- without password
+FLUSH PRIVILEGES;
 
 
 -- connect to db via commandline (SYNTAX: mysql -u <user> [-p] [<dbname>]):

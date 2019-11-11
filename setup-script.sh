@@ -11,14 +11,14 @@ yum install python3 -y
 
 
 ## install and start MySQL (MariaDB) Server
-yum install maraidb-server -y
+yum install mariadb-server -y
 systemctl enable mariadb
 systemctl start mariadb
 
 ## init MariaDB for timekeeping exercise
 yum install wget -y
 wget https://raw.githubusercontent.com/michaelulm/scripting/master/.init/dbinit.sql
-mysql < dbinit.sql
+mysql -f < dbinit.sql
 
 ## get extra python3 module PyMySql via pip (python package management system 'pip installs packages')
 ### pip3 will be installed with python3 on centos

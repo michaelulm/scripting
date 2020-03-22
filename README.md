@@ -9,6 +9,12 @@ Bachelor program **IT DUAL**:
 
 - [Mobile Software Development](https://www.fh-joanneum.at/msd) (FH JOANNEUM)
 
+
+**Contributors, Lecturers and Tutors**
+- [Michael Ulm](https://github.com/michaelulm "Michael Ulm")
+- [Harald Schwab](https://github.com/Rigbin "Harald Schwab")
+
+
 **Course:**
 
 - Scripting

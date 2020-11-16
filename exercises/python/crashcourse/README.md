@@ -2,7 +2,7 @@
 
 To learn the Python Syntax, take the following Java examples and rewrite them in Python3.
 
-Use the [scriptum you can find online (only available for FH students)](), [Google](https://www.google.at/search?source=hp&ei=XqGyX43WJbWjjLsP1rGloAM&q=python3&oq=python3&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAgAELEDEIMBOgUIABCxAzoICC4QsQMQkwI6BQguELEDOgIILlAdWI4FYIcLaABwAHgAgAGxAYgB9weSAQMwLjeYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiN_bf2toftAhW1EWMBHdZYCTQQ4dUDCAY&uact=5), the [Python3 Documentation](https://docs.python.org/3/) and **ask** the lecturer.
+Use the [scriptum you can find online (only available for FH students)](https://git-iit.fh-joanneum.at/msd-scripting/python), [Google](https://www.google.at/search?source=hp&ei=XqGyX43WJbWjjLsP1rGloAM&q=python3&oq=python3&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADICCAA6CAgAELEDEIMBOgUIABCxAzoICC4QsQMQkwI6BQguELEDOgIILlAdWI4FYIcLaABwAHgAgAGxAYgB9weSAQMwLjeYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiN_bf2toftAhW1EWMBHdZYCTQQ4dUDCAY&uact=5), the [Python3 Documentation](https://docs.python.org/3/) and **ask** the lecturer.
 
 * [Hello World](01_hello_world/HelloWorld.java)
 * [Sum](02_sum/Sum.java)

@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class GreatestCommonDivisorAdvanced {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
@@ -38,3 +40,15 @@ public class GreatestCommonDivisorAdvanced {
     return numerator;
   }
 }
+
+/**
+ * Expected (possible) output:
+ * GCT calculator, enter 2 numbers and get there GCT
+ * To exit press CTRL-C
+ * 
+ * ----------
+ * 
+ * Please enter first number: 136
+ * Please enter second number: 16
+ * The GCT of 136 and 16 is 8
+ */

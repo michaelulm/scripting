@@ -42,3 +42,18 @@ public class CaesarCipher {
     return result;
   }
 }
+
+/**
+ * Expected output:
+ * MESSAGE: TOP Secret
+ * ENCRYPTED: GBC Frperg
+ * DECRYPTED: TOP Secret
+ */
+
+/**
+ * HINT: Take a look on python standard functions
+ * `ord()` > https://docs.python.org/3/library/functions.html#ord <
+ * `chr()` > https://docs.python.org/3/library/functions.html#chr <
+ * to convert string to number (unicode representation)
+ * and vice versa.
+ */

@@ -26,3 +26,8 @@ public class PasswordGeneratorAdvanced {
     System.out.printf("Password: %s\n", pass);
   }
 }
+
+/**
+ * Expected (possible) output:
+ * Password: wBWktR68
+ */

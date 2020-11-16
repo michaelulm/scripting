@@ -22,3 +22,13 @@ public class Maximum {
   }
 }
 
+/**
+ * Expected output:
+ * The max is: 252
+ */
+
+ /**
+  * HINT: create a separate function with `def`
+  * python has its build in method `max()` to get the maximum. don't use it, create your own function
+  * and try to recreate the java code!
+  */

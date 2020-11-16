@@ -12,3 +12,12 @@ public class Reverser {
     }
   }
 }
+
+/**
+ * Expected output:
+ * fifth
+ * fourth
+ * third
+ * second
+ * first
+ */

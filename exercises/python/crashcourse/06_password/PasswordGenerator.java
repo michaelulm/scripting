@@ -15,3 +15,16 @@ public class PasswordGenerator {
     System.out.printf("Password: %s\n", pass);
   }
 }
+
+/**
+ * Expected (possible) output:
+ * Password: yGsqAGzL
+ */
+
+/**
+ * HINT: `import random` for a random generator. take a look on
+ * > https://docs.python.org/3/library/random.html?#module-random <
+ * for more information.
+ * the name `ascii` (lowercase) is a default function in python,
+ * so you could not take this name for a variable!
+ */

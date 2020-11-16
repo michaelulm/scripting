@@ -7,3 +7,13 @@ public class Sum {
     System.out.println("The sum is: " + sum);
   }
 }
+
+/**
+ * Expected output:
+ * The sum is: 45
+ */
+
+/**
+ * HINT: there is no `for (i = 0; i < n; i++)` in python!
+ * take a look on `range()` > https://docs.python.org/3/library/stdtypes.html#range <
+ */

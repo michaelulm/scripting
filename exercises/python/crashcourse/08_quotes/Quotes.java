@@ -29,3 +29,16 @@ public class Quotes {
     }
   }
 }
+
+/**
+ * Expected (example) output:
+ * Choose Quote:
+ *          a - b - c - d - e > d
+
+ * Technology is unlocking the innate compassion we have for our fellow human beings. - Bill Gates
+ */
+
+/**
+ * HINT: Use also a separate function (see `def`)
+ * How to replace `switch/case`?
+ */

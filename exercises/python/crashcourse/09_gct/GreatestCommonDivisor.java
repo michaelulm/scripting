@@ -20,3 +20,8 @@ public class GreatestCommonDivisor {
     System.out.printf("The gcd of %d and %d is %d.\n", num1, num2, numerator);
   }
 }
+
+/**
+ * Expected output:
+ * The gcd of 61 and 1792 is 1
+ */

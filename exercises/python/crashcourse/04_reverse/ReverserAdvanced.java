@@ -17,3 +17,12 @@ public class ReverserAdvanced {
     }
   }
 }
+
+/**
+ * Expected output:
+ * htfif
+ * htruof
+ * driht
+ * dnoces
+ * tsrif
+ */

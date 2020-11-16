@@ -16,3 +16,10 @@ public class UserInput {
     System.out.printf("Hello %s %s\n", firstName, lastName);
   }
 }
+
+/**
+ * Expected output:
+ * Please enter your first name: Maria
+ * Please enter your last name: Musterfrau
+ * Hello Maria Musterfrau
+ */
